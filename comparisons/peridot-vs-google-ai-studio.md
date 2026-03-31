@@ -62,3 +62,9 @@ Choose Peridot if:
 Google AI Studio gives you access to AI models.
 
 Peridot gives you control over how AI is used across your company.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
