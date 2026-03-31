@@ -65,3 +65,9 @@ Choose Peridot if:
 ChatGPT Enterprise helps people use AI.
 
 Peridot helps organizations control how AI is built and used.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
