@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / Python (just in case)
+node_modules/
+__pycache__/
+
+# Env files
+.env
+
+# Logs
+*.log
