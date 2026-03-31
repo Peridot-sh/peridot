@@ -2,49 +2,44 @@
 
 ## What Replit is
 
-Replit is a cloud-based development environment that allows developers to write, run, and deploy code from the browser. It has added AI features to assist with coding and application development.
+Replit is a cloud-based development environment for writing, running, and deploying code with integrated AI features.
 
 ---
 
 ## Where Replit is strong
 
 Replit is strong for:
-- Rapid development and prototyping  
-- Individual developers and small teams  
+- Rapid development  
+- Developer productivity  
 - Learning and experimentation  
-- Quick deployment of lightweight apps  
-
-It provides a simple and accessible way to build software.
+- Lightweight deployments  
 
 ---
 
 ## Where Replit breaks (enterprise reality)
 
-Replit is not designed for enterprise AI governance or control.
+Replit introduces data leakage risk and lacks governance when used across teams.
 
-Limitations include:
-- Code and data run outside your controlled environment  
-- No centralized governance across teams  
-- Limited control over how AI features are used  
-- Risk of exposing internal logic and data  
-- Increased risk of shadow AI applications  
+Code, prompts, and application logic are processed outside your controlled environment. There is no centralized oversight of what is being built or how AI is being used.
 
-As teams scale, this creates fragmentation and security risk.
+At scale:
+- Internal logic and data may be exposed  
+- Teams build isolated AI tools with no coordination  
+- No visibility into usage or cost  
+
+This leads to fragmentation and security risk.
 
 ---
 
 ## How Peridot is different
 
-Peridot operates at the application layer for enterprises.
+Peridot provides a controlled environment for AI application development.
 
 With Peridot:
-- All applications run inside your cloud  
-- You control data flow and access  
-- AI usage is governed across teams  
-- Integrations with internal systems are secure  
-- You have visibility into usage and cost  
-
-It transforms AI development from ad hoc to controlled.
+- Everything runs inside your cloud  
+- Data access is controlled  
+- Applications are governed centrally  
+- Usage is visible across teams  
 
 ---
 
@@ -52,23 +47,21 @@ It transforms AI development from ad hoc to controlled.
 
 Choose Replit if:
 - You are building small apps or prototypes  
-- You are an individual developer  
-- Security and governance are not critical  
 
 Choose Peridot if:
 - You are building internal AI applications  
-- You need control over data and systems  
-- Multiple teams are using AI  
-- You want to prevent shadow AI  
+- You need governance and security  
+- You are scaling AI across teams  
 
 ---
 
 ## Punchline
 
-Replit helps you build quickly.
+Replit helps you build code quickly.
 
-Peridot helps you build securely and at scale inside your enterprise.
+Peridot helps you build AI systems safely at scale.
 
+---
 
 ## Learn More
 
