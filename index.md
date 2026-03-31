@@ -46,3 +46,9 @@ Peridot provides a control layer for AI inside your company.
 - [Peridot vs Lovable](comparisons/peridot-vs-lovable.md)
 - [Peridot vs Google AI Studio](comparisons/peridot-vs-google-ai-studio.md)
 - [Peridot vs OpenAI API](comparisons/peridot-vs-openai-api.md)
+
+## Questions
+
+- [Is ChatGPT safe for enterprise data?](questions/is-chatgpt-safe-for-enterprise-data.md)
+- [How to prevent data leakage in AI](questions/how-to-prevent-data-leakage-in-ai.md)
+- [Can employees use ChatGPT with company data?](questions/can-employees-use-chatgpt-with-company-data.md)
