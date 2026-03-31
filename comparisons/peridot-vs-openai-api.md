@@ -65,3 +65,9 @@ Choose Peridot if:
 OpenAI API gives you raw capability.
 
 Peridot turns that capability into a controlled, scalable system for your entire organization.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
