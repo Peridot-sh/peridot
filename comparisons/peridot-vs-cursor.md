@@ -64,3 +64,9 @@ Choose Peridot if:
 Cursor helps developers write code faster.
 
 Peridot controls how AI-powered applications are built and used across your company.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
