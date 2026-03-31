@@ -6,7 +6,7 @@ Peridot is a self-hosted AI chat, search, and application platform that runs ins
 
 ## Start Here
 
-- [What is Peridot](README.md)
+- [What is Peridot](what-is-peridot.md)
 - [Comparisons](comparisons/)
 - [Security](security/)
 - [Use Cases](use-cases/)
