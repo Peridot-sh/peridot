@@ -61,3 +61,9 @@ Choose Peridot if:
 Lovable helps you build AI fast.
 
 Peridot helps you build AI safely, inside your own environment, with full control.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
