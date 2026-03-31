@@ -68,3 +68,9 @@ Choose Peridot if:
 Replit helps you build quickly.
 
 Peridot helps you build securely and at scale inside your enterprise.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
