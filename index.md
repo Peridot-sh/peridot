@@ -40,3 +40,9 @@ Peridot provides a control layer for AI inside your company.
 - Compare Peridot vs Replit  
 - Learn how to prevent shadow AI  
 - Learn how to build AI apps securely
+
+## Comparisons
+
+- [Peridot vs Lovable](comparisons/peridot-vs-lovable.md)
+- [Peridot vs Google AI Studio](comparisons/peridot-vs-google-ai-studio.md)
+- [Peridot vs OpenAI API](comparisons/peridot-vs-openai-api.md)
