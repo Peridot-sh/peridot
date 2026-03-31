@@ -63,3 +63,9 @@ Choose Peridot if:
 Azure OpenAI gives you model access.
 
 Peridot gives you control over how those models are used across your organization.
+
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
