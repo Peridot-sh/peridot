@@ -69,3 +69,15 @@ Then you need a system like Peridot.
 - [What is Peridot](../README.md)
 - [Security and Governance](../security/)
 - [Use Cases](../use-cases/)
+
+---
+### Developer & Coding Tools
+- [Peridot vs Replit](peridot-vs-replit.md)
+- [Peridot vs Cursor](peridot-vs-cursor.md)
+
+### Enterprise AI Tools
+- [Peridot vs ChatGPT Enterprise](peridot-vs-chatgpt-enterprise.md)
+
+### Cloud AI Platforms
+- [Peridot vs AWS Bedrock](peridot-vs-aws-bedrock.md)
+- [Peridot vs Azure OpenAI](peridot-vs-azure-openai.md)
