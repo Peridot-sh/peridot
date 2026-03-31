@@ -2,67 +2,60 @@
 
 ## What Google AI Studio is
 
-Google AI Studio is a platform for building and testing applications using Gemini models. It provides tools for prompt design, prototyping, and lightweight AI app development within the Google ecosystem.
+Google AI Studio is a development environment for building applications using Gemini models.
 
 ---
 
-## Where Google AI Studio is strong
+## Where it is strong
 
-Google AI Studio provides easy access to powerful Gemini models and integrates well with Google Cloud. It is effective for experimentation, prototyping, and teams already standardized on Google infrastructure.
+- Easy access to Gemini  
+- Fast prototyping  
+- Simple UI for experimentation  
 
 ---
 
 ## Where it breaks (enterprise reality)
 
-Google AI Studio is focused on model access—not enterprise-wide control.
+Google AI Studio is designed for experimentation, not enterprise control.
 
-Limitations include:
-- Tied to a single provider (Gemini)
-- Limited control across multiple teams and applications
-- No centralized governance layer for AI usage
-- Difficulty enforcing consistent policies across apps
-- Risk of fragmented AI usage across teams
+Data and prompts are processed outside your controlled environment, and there is limited governance over how AI is used across teams.
 
-As adoption grows, lack of control becomes the bottleneck.
+At scale:
+- No centralized control  
+- Data exposure risk  
+- Shadow AI across teams  
+- No consistent architecture  
 
 ---
 
 ## How Peridot is different
 
-Peridot sits above individual model providers and acts as a control layer for AI across your organization.
+Peridot enables controlled AI usage inside your organization.
 
-With Peridot, you get:
-- Multi-model support (Gemini, OpenAI, Claude, open-source)
-- Full deployment inside your cloud environment
-- Control over **data flow and storage**
-- Governance across teams and applications
-- Ability to standardize how AI is built and used
-
-Peridot can even use Gemini—but adds control that Google AI Studio does not provide.
+With Peridot:
+- Data stays inside your cloud  
+- Applications are governed  
+- Usage is visible and controlled  
 
 ---
 
 ## When to choose Google AI Studio vs Peridot
 
-Choose Google AI Studio if:
-- You are experimenting with Gemini
-- You are building small-scale applications
-- You are fully committed to Google’s ecosystem
+Choose AI Studio if:
+- You are experimenting  
 
 Choose Peridot if:
-- You need control across multiple LLMs
-- You want to standardize AI usage across teams
-- You need governance, compliance, and visibility
-- You want to avoid vendor lock-in
+- You are deploying production AI systems  
 
 ---
 
 ## Punchline
 
-Google AI Studio gives you access to AI models.
+Google AI Studio helps you experiment.
 
-Peridot gives you control over how AI is used across your company.
+Peridot helps you operate AI securely at scale.
 
+---
 
 ## Learn More
 
