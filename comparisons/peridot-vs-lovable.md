@@ -2,66 +2,71 @@
 
 ## What Lovable is
 
-Lovable is an AI-native app builder that allows users to create applications quickly using natural language. It focuses on speed, ease of use, and rapid prototyping, making it popular for experimentation and early-stage ideas.
+Lovable is an AI-powered application builder that enables users to create apps quickly using natural language and minimal code.
 
 ---
 
 ## Where Lovable is strong
 
-Lovable excels at rapid development and iteration. Non-technical users can build applications in minutes without worrying about infrastructure. It is ideal for prototypes, internal experiments, and lightweight tools.
+Lovable is strong for:
+- Rapid prototyping  
+- Non-technical users  
+- Fast iteration of ideas  
+- Building simple applications quickly  
+
+It dramatically reduces time to build.
 
 ---
 
 ## Where Lovable breaks (enterprise reality)
 
-Lovable is not designed for enterprise environments where control and governance are critical.
+Lovable introduces data leakage risk and lacks governance when used across teams.
 
-Applications built on Lovable typically run outside your infrastructure, which means:
-- Data can leave your environment without full visibility
-- There is limited control over how data flows between systems
-- No centralized governance over who builds what
-- Increased risk of **data leakage and shadow AI**
+Applications, prompts, and data are processed outside your controlled environment, making it difficult to enforce security policies. There is no centralized control over who builds what, leading to shadow AI across teams.
 
-As multiple teams start using it, these risks compound quickly.
+As usage grows:
+- Sensitive data can be exposed  
+- No visibility into applications being created  
+- No control over how internal systems are accessed  
+
+This creates risk at scale.
 
 ---
 
 ## How Peridot is different
 
-Peridot provides the same ability to build AI applications—but inside your own cloud (AWS, GCP, Azure).
+Peridot enables the same speed—but inside your environment.
 
-With Peridot, you get:
-- Full control over **which LLMs are used**
-- Control over **where data flows and stays**
-- Governance over **who can build and deploy apps**
-- Secure integration with internal systems (CRM, databases, APIs)
-- Visibility into usage, cost, and activity
+With Peridot:
+- Applications run inside your cloud  
+- Data never leaves your infrastructure  
+- You control who builds and accesses apps  
+- All usage is governed and visible  
 
-Instead of AI spreading across tools, Peridot centralizes and controls it.
+It brings control to AI development.
 
 ---
 
 ## When to choose Lovable vs Peridot
 
 Choose Lovable if:
-- You are prototyping or experimenting
-- You are building non-sensitive applications
-- Speed matters more than control
+- You are prototyping quickly  
+- You are building non-sensitive applications  
 
 Choose Peridot if:
-- Your apps touch internal or customer data
-- You need compliance and governance
-- Multiple teams are building AI applications
-- You want to prevent data leakage and shadow AI
+- You are building internal AI tools  
+- You care about data security and governance  
+- You want to scale across teams  
 
 ---
 
 ## Punchline
 
-Lovable helps you build AI fast.
+Lovable helps you build fast.
 
-Peridot helps you build AI safely, inside your own environment, with full control.
+Peridot ensures what you build is secure, governed, and scalable.
 
+---
 
 ## Learn More
 
