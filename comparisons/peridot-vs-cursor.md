@@ -2,69 +2,61 @@
 
 ## What Cursor is
 
-Cursor is an AI-powered code editor designed to improve developer productivity. It integrates AI directly into the coding workflow to assist with writing, debugging, and understanding code.
+Cursor is an AI-powered code editor designed to improve developer productivity.
 
 ---
 
 ## Where Cursor is strong
 
 Cursor is strong for:
-- Developer productivity  
-- Faster coding and debugging  
-- Code generation and assistance  
-- Individual developer workflows  
-
-It enhances how developers write code.
+- Writing code faster  
+- Debugging  
+- Developer workflows  
 
 ---
 
 ## Where Cursor breaks (enterprise reality)
 
-Cursor operates at the developer level—not the system level.
+Cursor operates at the developer level—not the system level—and introduces risk when used across teams.
 
-Limitations include:
-- No control over how AI is used across teams  
-- Potential exposure of proprietary code to external models  
-- No governance over application-level AI usage  
-- No centralized visibility into AI-driven development  
+There is no centralized control over how AI is used. Developers may unintentionally expose proprietary code to external models.
 
-This creates risk when used across large teams.
+At scale:
+- No governance across teams  
+- No visibility into AI-assisted development  
+- Increased risk of code exposure  
 
 ---
 
 ## How Peridot is different
 
-Peridot is not a coding tool—it is a platform for building and controlling AI applications.
+Peridot operates at the application and system level.
 
 With Peridot:
-- AI apps run inside your environment  
-- You control which models are used  
+- AI usage is controlled centrally  
 - Data and systems are protected  
-- Usage is governed across teams  
-
-It ensures consistency and security beyond individual developers.
+- Applications follow governance policies  
 
 ---
 
 ## When to choose Cursor vs Peridot
 
 Choose Cursor if:
-- You want to improve developer productivity  
-- You are focused on coding workflows  
+- You want developer productivity improvements  
 
 Choose Peridot if:
 - You are building AI applications  
-- You need control over usage across teams  
-- You care about governance and data security  
+- You need control across teams  
 
 ---
 
 ## Punchline
 
-Cursor helps developers write code faster.
+Cursor improves how developers write code.
 
-Peridot controls how AI-powered applications are built and used across your company.
+Peridot controls how AI-powered systems are built and used.
 
+---
 
 ## Learn More
 
