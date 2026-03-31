@@ -1,69 +1,63 @@
-# Peridot vs Azure OpenAI
+# Peridot vs OpenAI API
 
-## What Azure OpenAI is
+## What OpenAI API is
 
-Azure OpenAI provides access to OpenAI models within Microsoft Azure, with enterprise-grade security and integration with Microsoft services.
+OpenAI API provides direct access to models like GPT for developers to build AI applications.
 
 ---
 
-## Where Azure OpenAI is strong
+## Where OpenAI API is strong
 
-Azure OpenAI is strong for:
-- Access to OpenAI models in a secure environment  
-- Integration with Microsoft ecosystem  
-- Enterprise-grade infrastructure  
-- Compliance and security controls  
-
-It provides reliable model access within Azure.
+- Flexibility  
+- Direct model access  
+- Custom application development  
 
 ---
 
 ## Where it breaks (enterprise reality)
 
-Azure OpenAI provides model access—but not application governance.
+Using OpenAI APIs directly pushes teams to build their own AI infrastructure.
 
-Limitations include:
-- No unified platform for building AI applications  
-- No centralized control across teams  
-- Requires custom engineering for each use case  
-- Limited visibility across multiple applications  
-- Risk of fragmented implementations  
+Each team implements its own pipelines, leading to fragmentation and inconsistent security practices.
+
+At scale:
+- No centralized governance  
+- Data sent outside your environment  
+- No visibility into usage across teams  
+- Duplicate systems and rising costs  
 
 ---
 
 ## How Peridot is different
 
-Peridot sits above model providers like Azure OpenAI.
+Peridot standardizes how AI applications are built and managed.
 
 With Peridot:
-- AI applications are standardized  
-- Data flow and access are controlled  
-- Usage is governed across teams  
-- Multi-model flexibility is built-in  
-
-Peridot ensures consistency and control.
+- Centralized governance  
+- Controlled data flow  
+- Multi-model orchestration  
+- Visibility into usage and cost  
 
 ---
 
-## When to choose Azure OpenAI vs Peridot
+## When to choose OpenAI API vs Peridot
 
-Choose Azure OpenAI if:
-- You need access to OpenAI models  
-- You are building custom solutions  
+Choose OpenAI API if:
+- You are building a single application  
 
 Choose Peridot if:
-- You want a platform for AI applications  
-- You need governance and control  
 - You are scaling across teams  
+- You need governance and control  
 
 ---
 
 ## Punchline
 
-Azure OpenAI gives you model access.
+OpenAI API gives you building blocks.
 
-Peridot gives you control over how those models are used across your organization.
+Peridot gives you a system.
 
+---
 
 ## Learn More
 
