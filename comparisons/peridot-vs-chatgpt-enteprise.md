@@ -2,48 +2,41 @@
 
 ## What ChatGPT Enterprise is
 
-ChatGPT Enterprise is OpenAI’s enterprise offering, providing access to ChatGPT with improved security, privacy, and organizational controls.
+ChatGPT Enterprise provides organizational access to ChatGPT with improved privacy and security controls.
 
 ---
 
 ## Where ChatGPT Enterprise is strong
 
-ChatGPT Enterprise is strong for:
-- Individual productivity  
-- Writing, summarization, and research  
-- Knowledge work across teams  
-- Easy adoption across organizations  
-
-It provides a powerful general-purpose AI assistant.
+- General-purpose AI assistant  
+- Writing, research, summarization  
+- Easy adoption across teams  
 
 ---
 
 ## Where it breaks (enterprise reality)
 
-ChatGPT Enterprise is not designed to build and manage custom AI applications.
+ChatGPT Enterprise does not provide control over how AI applications are built or used.
 
-Limitations include:
-- Limited control over application development  
-- No unified system for building internal AI tools  
-- Data flows are still tied to an external platform  
-- Limited integration with internal systems  
-- No centralized governance for custom workflows  
+Data flows are still tied to an external platform, and there is no unified system for building internal AI tools.
 
-It improves productivity—but does not solve AI system control.
+At scale:
+- Fragmented workflows  
+- Limited governance  
+- Continued exposure of sensitive data  
+- No control over application-level AI usage  
 
 ---
 
 ## How Peridot is different
 
-Peridot is a platform for building AI applications—not just using AI.
+Peridot enables organizations to build and control AI systems internally.
 
 With Peridot:
-- You build custom AI tools and workflows  
-- Everything runs inside your cloud  
-- You control data, models, and integrations  
-- AI usage is governed across teams  
-
-Peridot complements tools like ChatGPT by providing control.
+- AI runs inside your environment  
+- Applications are governed  
+- Data flow is controlled  
+- Systems integrate securely  
 
 ---
 
@@ -51,21 +44,20 @@ Peridot complements tools like ChatGPT by providing control.
 
 Choose ChatGPT Enterprise if:
 - You want a general-purpose AI assistant  
-- You are focused on individual productivity  
 
 Choose Peridot if:
 - You want to build AI applications  
-- You need control over data and systems  
-- You are scaling AI across teams  
+- You need control and governance  
 
 ---
 
 ## Punchline
 
-ChatGPT Enterprise helps people use AI.
+ChatGPT Enterprise helps individuals use AI.
 
-Peridot helps organizations control how AI is built and used.
+Peridot helps organizations control AI at scale.
 
+---
 
 ## Learn More
 
