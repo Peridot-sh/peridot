@@ -66,3 +66,8 @@ Choose Peridot if:
 AWS Bedrock gives you infrastructure.
 
 Peridot gives you a system to build and control AI applications.
+
+## Learn More
+
+- [Peridot Security](../security/)
+- [Peridot Use Cases](../use-cases/)
