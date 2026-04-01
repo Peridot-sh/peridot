@@ -340,8 +340,8 @@ Peridot ensures that AI is:
 - Scalable  
 
 ---
-
 ## Explore More
 
 - [What is Peridot](../what-is-peridot.md)
 - [Comparisons](../comparisons/)
+- [Questions](../questions/)
