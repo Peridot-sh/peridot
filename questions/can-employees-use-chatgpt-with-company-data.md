@@ -22,12 +22,14 @@ When employees input company data:
 
 - Data leaves your environment  
 - You lose control over how it is processed  
-- There is no visibility into usage  
-
+- There is no visibility into usage
+- 
 This creates:
 - Data leakage risk  
 - Compliance issues  
 - Loss of control  
+
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
 
 ---
 
