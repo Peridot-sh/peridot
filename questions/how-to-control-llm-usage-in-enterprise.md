@@ -78,6 +78,9 @@ Instead of asking:
 Enterprises should ask:
 “Do we control how AI is used across the company?”
 
+
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ## Where Peridot Fits
