@@ -25,7 +25,9 @@ At scale:
 - Fragmented workflows  
 - Limited governance  
 - Continued exposure of sensitive data  
-- No control over application-level AI usage  
+- No control over application-level AI usage
+
+This introduces **data leakage risk** → [How to prevent data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
 
 ---
 
