@@ -1,3 +1,4 @@
+[← Back to Comparisons](../comparisons/)
 # Peridot vs Cursor
 
 ## What Cursor is
