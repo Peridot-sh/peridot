@@ -27,6 +27,8 @@ At scale:
 - No visibility into AI-assisted development  
 - Increased risk of code exposure  
 
+This introduces **data leakage risk** → [How to prevent data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ## How Peridot is different
