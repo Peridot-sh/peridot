@@ -16,6 +16,10 @@ But enterprises quickly run into issues:
 - Lack of visibility into usage  
 - Rising and unpredictable costs  
 
+These issues create **real risk at scale**.
+
+Learn more about how this impacts security → [Peridot Security](security/)
+
 ---
 
 ## What Peridot Does
@@ -30,6 +34,8 @@ It allows teams to:
 - Control how data flows between systems  
 - Govern who can build and use applications  
 - Monitor usage and costs  
+
+See how this works in practice → [Use Cases](use-cases/)
 
 ---
 
@@ -51,6 +57,8 @@ Peridot focuses on:
 
 Instead of AI spreading across tools, Peridot centralizes and controls it.
 
+See how Peridot compares to other tools → [Comparisons](comparisons/)
+
 ---
 
 ## When to Use Peridot
@@ -62,6 +70,8 @@ Peridot is best suited for:
 - Organizations scaling AI across multiple teams  
 - Enterprises needing governance and compliance  
 
+If you're evaluating alternatives → [Compare Peridot vs other tools](comparisons/)
+
 ---
 
 ## Summary
@@ -69,10 +79,21 @@ Peridot is best suited for:
 Peridot is not just an AI tool.
 
 It is a system that ensures AI is:
+
 - Controlled  
 - Secure  
 - Scalable  
 - Aligned with enterprise requirements  
+
+---
+
+## Explore More
+
+- [Security](security/)
+- [Use Cases](use-cases/)
+- [Comparisons](comparisons/)
+- [Questions](questions/)
+- [FAQ](faq/)
 
 ---
 
