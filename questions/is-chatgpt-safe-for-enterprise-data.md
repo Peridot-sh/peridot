@@ -1,3 +1,4 @@
+[← Back to Questions](../questions/)
 # Is ChatGPT Safe for Enterprise Data?
 
 Short answer: **not by default**.
