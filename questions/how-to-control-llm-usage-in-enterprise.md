@@ -1,3 +1,4 @@
+[← Back to Questions](../questions/)
 # How to Control LLM Usage in Enterprise
 
 Controlling LLM usage is one of the biggest challenges in enterprise AI adoption.
