@@ -25,6 +25,8 @@ As AI adoption grows, enterprises face new challenges:
 - Shadow AI across teams  
 - Rising costs and fragmentation  
 
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 Answering these questions is critical to using AI safely.
 
 ---
