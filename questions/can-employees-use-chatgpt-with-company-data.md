@@ -1,3 +1,4 @@
+[← Back to Questions](../questions/)
 # Can Employees Use ChatGPT with Company Data?
 
 Short answer: **they can—but they shouldn’t without controls**.
