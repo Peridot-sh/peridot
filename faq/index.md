@@ -59,3 +59,11 @@ Pricing is based on platform usage, with flexibility for enterprise needs and vo
 ## Key Takeaway
 
 > Peridot is built for enterprises that need control over how AI is used—not just access to AI.
+
+Peridot prevents **data leakage risk** → [How to prevent data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
+## Explore More
+
+- [Peridot Security](../security/)
+- [Use Cases](../use-cases/)
+- [Comparisons](../comparisons/)
