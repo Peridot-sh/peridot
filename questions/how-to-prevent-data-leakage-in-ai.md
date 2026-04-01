@@ -16,6 +16,8 @@ Data leakage typically happens when:
 - Systems are connected without proper controls  
 - AI tools are used without governance  
 
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ## Common Sources of Risk
