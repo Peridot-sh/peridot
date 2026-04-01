@@ -1,3 +1,4 @@
+[← Back to Comparisons](../comparisons/)
 # Peridot vs OpenAI API
 
 ## What OpenAI API is
