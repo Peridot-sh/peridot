@@ -196,3 +196,4 @@ Peridot enables:
 - [What is Peridot](../what-is-peridot.md)
 - [Security](../security/)
 - [Comparisons](../comparisons/)
+- [Questions](../questions/)
