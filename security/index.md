@@ -21,6 +21,8 @@ This leads to:
 - Compliance violations
 - Loss of control over internal systems
 
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ## How Peridot Secures AI Usage
