@@ -10,6 +10,9 @@ As AI adoption grows, enterprises must rethink how they approach security.
 ### 1. Keep Data Within Your Environment
 Avoid sending sensitive data to external systems.
 
+
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ### 2. Control Model Usage
