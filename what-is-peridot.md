@@ -10,7 +10,7 @@ Most AI tools optimize for speed.
 
 But enterprises quickly run into issues:
 
-- Data leaving their environment  
+- Data leaving their environment [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
 - No control over which LLMs are used  
 - Shadow AI across teams  
 - Lack of visibility into usage  
