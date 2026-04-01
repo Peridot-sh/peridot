@@ -1,3 +1,5 @@
+[← Back to Comparisons](../comparisons/)
+
 # Peridot vs AWS Bedrock
 
 ## What AWS Bedrock is
@@ -71,3 +73,4 @@ Peridot gives you a system to build and control AI applications.
 
 - [Peridot Security](../security/)
 - [Peridot Use Cases](../use-cases/)
+- [Is ChatGPT safe for enterprise data?](../questions/is-chatgpt-safe-for-enterprise-data.md)
