@@ -178,6 +178,8 @@ Then expand across teams.
 
 Peridot makes AI scalable inside the enterprise.
 
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 ---
 
 ## Summary
