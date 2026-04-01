@@ -1,3 +1,4 @@
+[← Back to Comparisons](../comparisons/)
 # Peridot vs ChatGPT Enterprise
 
 ## What ChatGPT Enterprise is
