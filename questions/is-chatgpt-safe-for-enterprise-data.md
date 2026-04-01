@@ -25,6 +25,8 @@ Even with enterprise plans, companies still face:
 
 ## The Core Risk: Data Leaving Your Environment
 
+This is especially important for preventing [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
+
 Most AI tools operate as external services.
 
 This means:
