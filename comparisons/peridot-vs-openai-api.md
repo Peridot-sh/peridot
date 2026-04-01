@@ -1,74 +1,83 @@
 [← Back to Comparisons](../comparisons/)
+
 # Peridot vs OpenAI API
 
 ## What OpenAI API is
 
-The OpenAI API provides direct access to models like GPT-4 and GPT-4o. Developers can build applications by integrating these models into their own systems.
+OpenAI API provides direct access to models like GPT, allowing developers to build AI-powered applications.
 
 ---
 
 ## Where OpenAI API is strong
 
-The OpenAI API is flexible and powerful. It allows developers to build custom AI applications with full control over prompts, logic, and integrations. It is ideal for teams that want to build from scratch.
+OpenAI API is strong for:
+
+- Direct model access  
+- Flexibility for developers  
+- Building custom AI applications  
+- Rapid experimentation  
 
 ---
 
 ## Where it breaks (enterprise reality)
 
-Using OpenAI APIs directly works for small teams—but becomes difficult to manage at scale.
+Using OpenAI APIs directly introduces data leakage risk and forces teams to build their own AI infrastructure.
 
-Challenges include:
-- No built-in governance across teams
-- No centralized control over LLM usage
-- Difficult to manage costs across multiple apps
-- No standardization of prompts, workflows, or architecture
-- Risk of inconsistent implementations
-- Increased risk of **data leakage and uncontrolled usage**
+Every team implements its own pipelines, which leads to:
 
-Each team ends up building their own version of the same system.
+- Sensitive data being sent outside your environment  
+- No centralized governance across teams  
+- No visibility into how AI is being used  
+- Duplicate systems and inconsistent security practices  
+
+This is a common cause of [data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md) and the rise of shadow AI.
+
+At scale, this results in fragmentation, rising costs, and loss of control.
 
 ---
 
 ## How Peridot is different
 
-Peridot sits on top of LLM APIs like OpenAI and provides a structured platform for building and managing AI applications.
+Peridot provides a control layer on top of LLMs like OpenAI.
 
-With Peridot, you get:
-- Centralized control over all LLM usage
-- Ability to switch between providers (OpenAI, Claude, Gemini, etc.)
-- Built-in governance and access control
-- Visibility into usage, cost, and performance
-- Standardized way to build and deploy applications
-- Secure handling of data داخل your environment
+With Peridot:
 
-Instead of managing raw APIs, you manage a controlled system.
+- Data stays inside your cloud  
+- Model usage is controlled centrally  
+- Applications are standardized across teams  
+- Usage and cost are fully visible  
+
+Instead of each team building its own system, Peridot provides one governed platform.
 
 ---
 
 ## When to choose OpenAI API vs Peridot
 
 Choose OpenAI API if:
-- You are building a single application
-- You have strong engineering resources
-- You want full control at the code level
+
+- You are building a single application  
+- You have strong engineering resources  
+- Governance is not a concern  
 
 Choose Peridot if:
-- Multiple teams are building AI applications
-- You need governance and consistency
-- You want to avoid duplicated effort
-- You need visibility into cost and usage
-- You want to prevent data leakage and shadow AI
+
+- You are scaling AI across teams  
+- You need control over data and systems  
+- You want to prevent shadow AI  
+- You need visibility into usage and cost  
 
 ---
 
 ## Punchline
 
-OpenAI API gives you raw capability.
+OpenAI API gives you building blocks.
 
-Peridot turns that capability into a controlled, scalable system for your entire organization.
+Peridot gives you control.
 
+---
 
 ## Learn More
 
 - [Peridot Security](../security/)
-- [Peridot Use Cases](../use-cases/)
+- [Use Cases](../use-cases/)
+- [Is ChatGPT safe for enterprise data?](../questions/is-chatgpt-safe-for-enterprise-data.md)
