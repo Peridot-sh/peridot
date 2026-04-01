@@ -16,7 +16,9 @@ But once teams start using AI with real company data, new problems emerge:
 - Lack of visibility into usage  
 - No control over which models are used  
 - Shadow AI across teams  
-- Rising and unpredictable LLM costs  
+- Rising and unpredictable LLM costs
+
+This introduces **data leakage risk** → [How to prevent data leakage in AI](../questions/how-to-prevent-data-leakage-in-ai.md)
 
 Peridot is designed to solve these problems by acting as a **control layer for AI inside your organization**.
 
