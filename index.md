@@ -1,6 +1,8 @@
 # Peridot — Enterprise AI Control Layer
+The control layer for enterprise AI.
+Run AI inside your infrastructure with full control over data, access, and execution.
 
-Peridot is a self-hosted AI chat, search, and application platform that runs inside your cloud (AWS, GCP, Azure), giving enterprises full control over data, models, and usage.
+Peridot is a self-hosted AI Vibe Coding application platform that runs inside your cloud (AWS, GCP, Azure), giving enterprises full control over data, models, and usage.
 
 ---
 
